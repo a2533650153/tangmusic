@@ -11,6 +11,6 @@ public class DefaultController {
 
     @GetMapping
     public String saveHello(){
-        return "欢迎使用音乐播放器";
+        return "欢迎使用音乐播放";
     }
 }
